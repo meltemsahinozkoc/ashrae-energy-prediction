@@ -64,3 +64,5 @@ The following models were trained and evaluated:
 
 Random Forest achieved the best performance with an RMSLE of **0.2750**.
 
+© 2025 Meltem Sahin Ozkoc – Carnegie Mellon University
+
